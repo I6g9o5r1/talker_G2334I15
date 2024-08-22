@@ -6,7 +6,7 @@ import asyncio
 import g4f
 client=g4f.client.Client()
 config = {
-    'token': '',
+    'token': '[insert token]',
     'prefix': '',
 }
 intents = discord.Intents.default() # Подключаем "Разрешения"
